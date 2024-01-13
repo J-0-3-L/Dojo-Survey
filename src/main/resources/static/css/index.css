@@ -1,0 +1,18 @@
+
+#datos{
+    border:3px solid black; 
+    width: 400px; 
+    padding: 20px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(166, 240, 199);
+}
+form input , form select{
+    display:block;
+    margin-left: 200px;
+}
+
+form button{
+    margin-top: 20px;
+    margin-left: 300px;
+}
